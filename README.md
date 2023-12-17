@@ -1,10 +1,5 @@
 # Types-of-Functions
 
-Sure, I'd be happy to help you draft a README file for your Solidity contract. Here's a basic template:
-
-```markdown
-# NewToken Smart Contract
-
 NewToken is a simple ERC-20 token smart contract written in Solidity. It extends the OpenZeppelin ERC20 and Ownable contracts, providing basic functionalities for token creation, minting, transferring, and burning.
 
 ## Features
